@@ -5,3 +5,10 @@ h2 {
 body{ 
    text-align: center;
     }
+
+body{
+   backround:#BFC9CA;
+   padding:0; 
+   margin:0;
+}
+   
