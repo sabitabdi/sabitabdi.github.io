@@ -2,15 +2,10 @@ h2 {
    color: red;
    }
 .container { 
-   width: 400px;
+   width: 700px;
    height: 500px;
    margin: 100px auto;
    background:#c0c0c0; 
    position: RELATIVE;  
 ]
-body {
-   backround:#c0c0c0;
-  padding: 0;
-   margin: 0;
-}
    
