@@ -1,9 +1,13 @@
 h2 { 
    color: red;
    }
-
-
-
+.container { 
+   width: 400px;
+   height: 400px;
+   margin: 100px auto;
+   background: #fff; 
+   position: RELATIVE;  
+]
 body{
    backround:#BFC9CA;
    padding:0; 
